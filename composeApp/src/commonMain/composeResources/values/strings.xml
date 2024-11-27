@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="search_hint">Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="favourites">Favourites</string>
+    <string name="request_timed_out">Request timed out</string>
+    <string name="too_many_requests">Too many requests</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="server_error">Internal error occurred</string>
+    <string name="serialization_error">Couldn't parse data</string>
+    <string name="unknown_error">An unknown error occurred</string>
+    <string name="disk_full_error">Local storage full!</string>
+</resources>
