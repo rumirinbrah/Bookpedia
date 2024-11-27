@@ -3,15 +3,10 @@
 Bookpedia is a multiplatform application where you can find details about your favourite books!! Their details, publish year, languages, covers & much more.
 
 ## Videos & Screenshots-
-Android-
-https://github.com/user-attachments/assets/2a311ffc-9473-43f9-a770-e909be01b07f
-<br>
-Desktop-
-https://github.com/user-attachments/assets/0deb2681-ee5c-4a11-9a0f-26f36c5b7ab2
 
+https://github.com/user-attachments/assets/f1ccc36b-163c-4846-ab53-02c6e79d374c
 
-
-
+https://github.com/user-attachments/assets/4d061290-1a71-4e5a-a6c0-ad388e4a18b5
 
 ## KMP & CMP
 Kotlin Multiplatform is a Jetbrains technology that allows you to write a single codebase & use it among multiple platforms such as Android, IOS, desktop, etc.
