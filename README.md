@@ -3,6 +3,14 @@
 Bookpedia is a multiplatform application where you can find details about your favourite books!! Their details, publish year, languages, covers & much more.
 
 ## Videos & Screenshots-
+Android-
+https://github.com/user-attachments/assets/2a311ffc-9473-43f9-a770-e909be01b07f
+<br>
+Desktop-
+https://github.com/user-attachments/assets/0deb2681-ee5c-4a11-9a0f-26f36c5b7ab2
+
+
+
 
 
 ## KMP & CMP
