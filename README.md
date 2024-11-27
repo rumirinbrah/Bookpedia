@@ -1,14 +1,26 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
+# Bookpedia
+## Description
+Bookpedia is a multiplatform application where you can find details about your favourite books!! Their details, publish year, languages, covers & much more.
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
-
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+## Videos & Screenshots-
 
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+## KMP & CMP
+Kotlin Multiplatform is a Jetbrains technology that allows you to write a single codebase & use it among multiple platforms such as Android, IOS, desktop, etc.
+Similarly, compose multiplatform allows us to share UI among all the devices written using Jetpack Compose.
+
+## Ktor & Koin
+* In this project, Ktor was used for handling API calls. It supports cross platform development. Ktor is similar to Retrofit but written purely in Kotlin.
+* Koin is a dependency injection library which also supports cross platform.
+
+## Architecture
+This application follows MVI android architecture where the app is structured into many packages according to the features.
+MVI is a popular architecture which stands for Model-View-Intent
+
+## Coil
+This library was used for loading images asynchronously. These images are automatically cached to the device & instantly loaded whenever needed.
+
+## Sources/References
+I have been working on this app for a while now. This is sort of my first fully functional KMP project & I followed Philipp Lackner's tutorial for this. Link -https://youtu.be/WT9-4DXUqsM
+
+
