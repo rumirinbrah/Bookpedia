@@ -26,4 +26,6 @@ This library was used for loading images asynchronously. These images are automa
 ## Sources/References
 I have been working on this app for a while now. This is sort of my first fully functional KMP project & I followed Philipp Lackner's tutorial for this. Link -https://youtu.be/WT9-4DXUqsM
 
+## API
+https://openlibrary.org/developers/api
 
